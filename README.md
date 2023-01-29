@@ -11,3 +11,7 @@ personalizados de los elementos. A su vez la implementacion de javascript para e
 
 ## Screenshots
 
+![Screenshot](Screenshots/screenshot-1.png)
+![Screenshot](Screenshots/screenshot-3.png)
+![Screenshot](Screenshots/screenshot-4.png) 
+![Screenshot](Screenshots/screenshot-5.png)
