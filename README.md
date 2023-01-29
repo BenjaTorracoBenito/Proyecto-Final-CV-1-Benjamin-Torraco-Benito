@@ -1,4 +1,4 @@
-##Ticmas
+## Ticmas
 
 🏷️ Proyecto Final - CV Ticmas 2023 Argentina Programa 4.0
 
@@ -8,3 +8,6 @@ Se trabajó principalmente haciendo uso de una framework (bootstrap 5.3.0) con d
 personalizados de los elementos. A su vez la implementacion de javascript para eventos on-scroll y jquery para garantizar un scroll suave.
 
 🖥️ Github Pages: https://benjatorracobenito.github.io/Proyecto-Final-CV-1-Benjamin-Torraco-Benito/
+
+## Screenshots
+
